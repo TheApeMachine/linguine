@@ -1,0 +1,12 @@
+*.pyc
+glove*
+ted*
+*.cPickle
+vocab*
+*.tsv
+emb*
+model*
+dev*
+*.local
+*.pbtxt
+*.csv
